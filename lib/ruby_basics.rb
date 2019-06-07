@@ -11,9 +11,9 @@ def argue(phrase= "I'm right and you are wrong!")
   returns phrase
 end
 
-def greeting("Hithere", name ="Bobby!")
+def greeting(name)
+  name ="Bobby!"
   puts "Hi there #{name}"
-
 end
 
 def return_a_value
