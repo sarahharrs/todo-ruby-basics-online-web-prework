@@ -26,5 +26,5 @@ end
 
 def pizza_party(pizza="cheese")
    puts pizza
-returns pizza_party
+returns pizza
 end
