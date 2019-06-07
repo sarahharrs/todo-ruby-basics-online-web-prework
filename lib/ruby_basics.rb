@@ -25,6 +25,6 @@ puts "expert"
 end
 
 def pizza_party(pizza="cheese")
-  pizza
-
+   puts pizza
+returns pizza_party
 end
